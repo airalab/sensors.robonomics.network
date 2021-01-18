@@ -9,7 +9,7 @@
     "pretty": "prettier --write \"./src/**/*.{js,vue,ts,jsx,json}\""
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chroma-js": "^2.1.0",
     "core-js": "^3.6.4",
     "ethereum-blockies-base64": "^1.0.2",
